@@ -1,0 +1,296 @@
+left
+ 
+ padding-top: 6px;
+ 
+direction: ;
+ 
+bottom
+ 
+ li
+ 
+marin
+ 
+display: flex;
+    align-items: center;
+ 
+around
+ 
+between
+ 
+2c4968
+ 
+: #222f3d;
+ 
+margin
+ 
+<p>
+              <span class="sp1">$</span><span class="sp2">119.97</span
+              ><span class="sp3">List Price:</span>
+              <span class="sp4">$139.97</span>
+            </p>
+            <p>Dove Body Wash Pampering Shea Bu...</p>
+ 
+<div class="first-footer-full">
+              <button>35% off</button>
+              <a href="">Deal</a>
+            </div>
+ 
+ <h6><a href="">See all deals</a></h6>
+ 
+Home & Kitchen Under $30
+ 
+Health & Personal Care
+ 
+Shop deals in Fashion
+ 
+Electronics
+ 
+/box_image.jpg
+ 
+ Mini
+ 
+Dove Body Wash Pampering Shea tt…
+ 
+background-color: g;
+ 
+font-size: 10px;
+ 
+.sp1
+ 
+1
+ 
+full-section
+ 
+Sceptre IPS 27-inch Gaming Monitor 1920 x 1080p up to 165Hz 1ms AMD FreeSync Premium 119% sRGB DisplayPort HDMI Build-in...
+24% off
+Deal
+ 
+Butter & Vanilla 4 Count for Renewed, Healthy-Looking Skin Gentle Skin Cleanser with 24hr Renewing MicroMoisture 20 ozDove Body Wash Pampering Shea 
+ 
+<div class="full-1"></div>
+      <div class="full-1"></div>
+ 
+<a href="#"><img src="/asset 105.jpeg" alt="" /></a>
+ 
+.first-images-long:hover {
+    overflow-x: auto;
+}
+ 
+ padding: auto;
+ 
+360px
+ 
+* /* 
+ 
+ height: 350px;
+    width: 375px;
+ 
+<img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt=""><img src="" alt="">
+ 
+See more
+ 
+Shop deals in Fashion
+ 
+ee more
+ 
+margin
+ 
+margin
+ 
+padding
+ 
+padding
+ 
+darkcyan
+ 
+darkgray
+ 
+, -3px -3px
+ 
+ -1em 0 .4em
+ 
+olive
+ 
+white
+ 
+whitesmoke
+ 
+wheat
+ 
+red
+ 
+pace-evenly
+ 
+ffffff
+ 
+ padding: 5px 5px 5px 5px;
+ 
+first
+ 
+first
+ 
+<div class="a"></div>
+ 
+<a</delevary>
+ 
+transparent
+ 
+
+    list-style: none;
+    line-height: 39px;
+ 
+start
+ 
+center
+ 
+i,
+ 
+transparent
+ 
+
+    flex-direction: column;
+ 
+& Orders
+ 
+order
+ 
+ /* 
+ 
+account
+ 
+ </select>
+ 
+</option>
+ 
+<select name="" id="">
+ 
+ <option value="">
+ 
+Account & Lists
+ 
+Hello,sign in
+ 
+account
+ 
+transparent
+ 
+ text-align: center;
+ 
+
+    align-items: center;
+ 
+<i class="fa-solid fa-flag"></i>
+ 
+country
+ 
+left
+ 
+left
+ 
+right
+ 
+right
+ 
+left
+ 
+left
+ 
+right
+ 
+
+    flex-direction: row;
+ 
+ /* /gin-top: 5px; */
+    /* justify-content: space-evenly; */
+ 
+ /* display: flex; */
+ 
+/* padding/ */
+ 
+36
+ 
+ 540
+ 
+select
+ 
+ forced-color-adjust: 
+    ;
+ 
+top
+ 
+</div>
+ 
+.search {
+    display: flex;
+    padding: 3px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+.search-icon i {
+    color: #ffffff;
+}
+
+.search-select {
+    width: 35px;
+    height: 37px;
+    /* padding: 5px; */
+}
+
+select {
+    height: 100%;
+    padding: 2px;
+}
+
+.search-input {
+    width: 1058px;
+    height: 38px;
+}
+
+.search-input input {
+    width: 100%;
+    padding: 7px 10px 10px 0px;
+    font-size: 15px;
+}
+ 
+ </div>
+ 
+<div class="search-input">
+ 
+</div>
+ 
+<div class="search-select">
+ 
+option
+ 
+ <i></i>
+ 
+
+    flex-direction: column;
+ 
+class="location-p"
+ 
+ align-items: center;
+ 
+transparent
+ 
+nav-logo
+ 
+
+.loc-down i {
+    background-color: #ffffff;
+}
+ 
+display: flex;
+ 
+transparent
+ 
+.hover:hover {
+    border: 2px solid white;
+}
+ 
+transparent
+ 
